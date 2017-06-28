@@ -29,7 +29,7 @@ Mod adding a GUI for 7 Days to Die Dedicated Server.
   
 ## Installation
 
-1. Download last release zip and copy its contents at ```<your dedicated server directory>/Mods/```. You must to get next structure:
+1. Download latest [release](https://github.com/Zaklinatel/7dtd-ConsoleGUI/releases/) and copy its contents at ```<your dedicated server directory>/Mods/```. You must to get next structure:
 ```
 <your_server_directory>/
   Mods/
