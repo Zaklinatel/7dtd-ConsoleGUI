@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ServerGUI" />
+		<Description value="7 Days to Die Dedicated Server GUI mod" />
+		<Author value="Zaklinatel" />
+		<Version value="1" />
+		<Website value="" />
+	</ModInfo>
+</xml>
