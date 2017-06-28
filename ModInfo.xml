@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="ServerGUI" />
+		<Name value="ConsoleGUI" />
 		<Description value="7 Days to Die Dedicated Server GUI mod" />
 		<Author value="Zaklinatel" />
 		<Version value="0.1.1" />
