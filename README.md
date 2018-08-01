@@ -2,7 +2,7 @@
 
 Mod adding a GUI for 7 Days to Die Dedicated Server.
 
-### The project suspended for some time due to lack of time for its support. Sorry gyus :(
+### The project suspended for some time due to lack of time for its support. Sorry guys :(
 
 **Currently only Windows**
 
